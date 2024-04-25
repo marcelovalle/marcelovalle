@@ -1,7 +1,7 @@
 # Olá, sou Marcelo Borges Valle 👋
 
 ## Sobre mim
-<span style="color:#095256">Sou um pesquisador apaixonado e estou atualmente fazendo parte do grupo de pesquisa Laboratório de Novas Tecnologias de Pesquisa em Relações Internacionais (LANTRI), comandado pelo professor dr. Marcelo Passini Mariano, na Unesp Franca. Estou elaborando uma pesquisa sobre o BRICS, mais especificamente sobre a sua expansão mais recente e quais os impactos dela.</span>
+<span style="color:#095256">Atualmente faço parte do grupo de pesquisa Laboratório de Novas Tecnologias de Pesquisa em Relações Internacionais (LANTRI), comandado pelo professor dr. Marcelo Passini Mariano, na Unesp Franca. Estou elaborando uma pesquisa sobre o BRICS, mais especificamente sobre a sua expansão mais recente e quais os impactos dela.</span>
 
 ## Habilidades de programação
 - <span style="color:#087f8c">Python: Conhecimento básico</span>
