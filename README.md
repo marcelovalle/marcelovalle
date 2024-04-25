@@ -1,17 +1,18 @@
 # Olá, sou Marcelo Borges Valle 👋
 
 ## Sobre mim
-<span style="color:#095256">Atualmente faço parte do grupo de pesquisa Laboratório de Novas Tecnologias de Pesquisa em Relações Internacionais (LANTRI), comandado pelo professor dr. Marcelo Passini Mariano, na Unesp Franca. Estou elaborando uma pesquisa sobre o BRICS, mais especificamente sobre a sua expansão mais recente e quais os impactos dela.</span>
+🌍 Atualmente estou no 4° ano de Relações Internacionais na Unesp e faço parte do grupo de pesquisa Laboratório de Novas Tecnologias de Pesquisa em Relações Internacionais (LANTRI), comandado pelo professor dr. Marcelo Passini Mariano, na Unesp Franca. Estou elaborando uma pesquisa sobre o BRICS, mais especificamente sobre a sua expansão mais recente e quais os impactos dela.
 
 ## Habilidades de programação
-- <span style="color:#087f8c">Python: Conhecimento básico</span>
+- 🐍 Python: Conhecimento básico
 
 ## Interesses
-- <span style="color:#5aaa95">Pesquisa de curiosidades aleatórias sobre os países</span>
-- <span style="color:#5aaa95">Música (sou super fã da Taylor Swift)</span>
-- <span style="color:#5aaa95">Trilhas</span>
-- <span style="color:#5aaa95">Aprender sobre logística, importação e exportação e comércio exterior</span>
+- 🌎 Pesquisa de curiosidades aleatórias sobre os países
+- 🎵 Música (sou super fã da Taylor Swift)
+- 🥾 Trilhas
+- 🚢 Aprender sobre logística, importação e exportação e comércio exterior
 
 ## Entre em contato comigo
-- LinkedIn
-- Instagram
+- [!Linkedin] (https://www.linkedin.com/in/marcelo-borges-valle/)
+- [!Instagram] (https://www.instagram.com/marcelo_valle/)
+
