@@ -1,16 +1,17 @@
-### Hi there 👋
+# Olá, sou Marcelo Borges Valle 👋
 
-<!--
-**marcelovalle/marcelovalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+<span style="color:#095256">Sou um pesquisador apaixonado e estou atualmente fazendo parte do grupo de pesquisa Laboratório de Novas Tecnologias de Pesquisa em Relações Internacionais (LANTRI), comandado pelo professor dr. Marcelo Passini Mariano, na Unesp Franca. Estou elaborando uma pesquisa sobre o BRICS, mais especificamente sobre a sua expansão mais recente e quais os impactos dela.</span>
 
-Here are some ideas to get you started:
+## Habilidades de programação
+- <span style="color:#087f8c">Python: Conhecimento básico</span>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interesses
+- <span style="color:#5aaa95">Pesquisa de curiosidades aleatórias sobre os países</span>
+- <span style="color:#5aaa95">Música (sou super fã da Taylor Swift)</span>
+- <span style="color:#5aaa95">Trilhas</span>
+- <span style="color:#5aaa95">Aprender sobre logística, importação e exportação e comércio exterior</span>
+
+## Entre em contato comigo
+- LinkedIn
+- Instagram
