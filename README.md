@@ -13,6 +13,6 @@
 - 🚢 Aprender sobre logística, importação e exportação e comércio exterior
 
 ## Entre em contato comigo
-- [!Linkedin] (https://www.linkedin.com/in/marcelo-borges-valle/)
-- [!Instagram] (https://www.instagram.com/marcelo_valle/)
+- [Linkedin](https://www.linkedin.com/in/marcelo-borges-valle/)
+- [Instagram](https://www.instagram.com/marcelo_valle/)
 
