@@ -4,7 +4,7 @@
 🌍 Atualmente estou no 4° ano de Relações Internacionais na Unesp e faço parte do grupo de pesquisa Laboratório de Novas Tecnologias de Pesquisa em Relações Internacionais (LANTRI), comandado pelo professor dr. Marcelo Passini Mariano. Estou elaborando uma pesquisa sobre o BRICS, mais especificamente sobre a sua expansão mais recente e quais os impactos dela.
 
 ## Habilidades de programação
-- 🐍 Python: Conhecimento básico
+- 🐍 Python: Conhecimento introdutório
 
 ## Interesses
 - 🌎 Pesquisa de curiosidades aleatórias sobre os países
